@@ -39,7 +39,7 @@ carData$carname <- as.character(carData$carname)
 
 
 # import the data into the table "cartable" in the "musa620" database  
-dbWriteTable(con, "cartable", value = df, append = TRUE, row.names = FALSE)
+dbWriteTable(con, "cartable", value = carData, append = TRUE, row.names = FALSE)
 
 
 # run a SQL query for all of the data in cartable
