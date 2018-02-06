@@ -1,4 +1,4 @@
-# Week 4: Databases: Postgres, PostGIS, SQL, spatial queries
+# Week 4: Databases: Postgres and SQL
 
 ### Installing Postgres
 
@@ -8,7 +8,7 @@ Unfortuately, Postgres can be fussy to set up. So in preparation for this week's
 
 If you do run into problems setting up Postgres, please be sure to let me know.
 
-## Spatial Databases
+## Databases
 
 ![relational schema courses intouch database](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-4/blob/master/relational-schema.png "relational schema courses intouch database")
 Relational schema for a simplified UPenn Courses InTouch database
