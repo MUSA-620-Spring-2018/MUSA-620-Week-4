@@ -10,8 +10,8 @@ If you do run into problems setting up Postgres, please be sure to let me know.
 
 ## Spatial Databases
 
-![Distance from nearest SEPTA station Philadelphia](https://blueshift.io/distance-from-septa.png "Distance from nearest SEPTA station Philadelphia")
-Distance from each building in Philadelpha to the nearest SEPTA station
+![relational schema courses intouch database](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-4/blob/master/relational-schema.png "relational schema courses intouch database")
+Relational schema for a simplified UPenn Courses InTouch database
 
 ### Resources
 - RPostgreSQL: [documentation](https://cran.r-project.org/web/packages/RPostgreSQL/RPostgreSQL.pdf)
