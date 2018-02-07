@@ -11,10 +11,23 @@ If you do run into problems setting up Postgres, please be sure to let me know.
 ## Databases
 
 ![relational schema courses intouch database](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-4/blob/master/relational-schema.png "relational schema courses intouch database")
-Relational schema for a simplified UPenn Courses InTouch database
+Relational schema for a fictional UPenn Courses InTouch database
 
 ### Resources
 - RPostgreSQL: [documentation](https://cran.r-project.org/web/packages/RPostgreSQL/RPostgreSQL.pdf)
 
+## Assignment (optional)
 
+Using the fictional Courses InTouch database we worked with in class, write a single SQL query that returns the list of students who are qualified to graduate.
 
+**Due:** 13-Feb-2018 before the start of class (optional)
+
+### Description
+
+For our fictional students to graduate, they must have completed at least 4 classes with a final grade of 80 or above.
+
+Using the definition above, write a single SQL query that returns the list of all students that are cleared for graduation. This is possible using only the syntax we learned in class. There are also many other ways of achieving the same result using syntax that we did not cover, but can be found with a little investigation online.
+
+Extra credit for turning in three or more valid solutions.
+
+Since the deliverable in this assignment is only a line (or three) of code, cooperation with other students is not permitted.
