@@ -28,6 +28,4 @@ For our fictional students to graduate, they must have completed at least 4 clas
 
 Using the definition above, write a single SQL query that returns the list of all students that are cleared for graduation. This is possible using only the syntax we learned in class. There are also many other ways of achieving the same result using syntax that we did not cover, but can be found with a little investigation online.
 
-Extra credit for turning in three or more valid solutions.
-
-Since the deliverable in this assignment is only a line (or three) of code, cooperation with other students is not permitted.
+**Deliverable:** just the SQL query, no need to send the full R script
